@@ -3,26 +3,26 @@
   "name": "Synthetism",
   "previewText": "A set of fonts combined & mixed in my style :^",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/noto_sans_extra_bold.ttf",
 
-    "ggsans-Bold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_sans_bold.ttf",
-    "ggsans-BoldItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_sans_bold_italic.ttf",
-    "ggsans-ExtraBold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/inclusive_sans_bold.ttf",
-    "ggsans-ExtraBoldItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/inclusive_sans_bold_italic.ttf",
-    "ggsans-Medium": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
-    "ggsans-MediumItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_medium_italic.ttf",
     "ggsans-Normal": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
     "ggsans-NormalItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_italic.ttf",
-    "ggsans-Semibold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_sans_semi_bold.ttf",
-    "ggsans-SemiboldItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_sans_semi_bold_italic.ttf",
+    "ggsans-Medium": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
+    "ggsans-MediumItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_medium_italic.ttf",
+    "ggsans-Semibold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_semi_bold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_semi_bold_italic.ttf",
+    "ggsans-Bold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_bold_italic.ttf",
+    "ggsans-ExtraBold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/nunito_black.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/nunito_black_italic.ttf",
 
-    "NotoSans-Bold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_sans_bold.ttf",
-    "NotoSans-ExtraBold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/inclusive_sans_bold.ttf",
-    "NotoSans-Medium": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
     "NotoSans-Normal": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
     "NotoSans-NormalItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_italic.ttf",
-    "NotoSans-Semibold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_sans_semi_bold.ttf",
+    "NotoSans-Medium": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
+    "NotoSans-Semibold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_semi_bold.ttf",
+    "NotoSans-Bold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/nunito_black.ttf",
 
-    "SourceCodePro-Semibold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/ibm_plex_mono_semi_bold.ttf"
+    "SourceCodePro-Semibold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/lxgw_wenkai_mono_tc_bold.ttf",
+    "ABCGintoNord-ExtraBold": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/playpen_sans_extra_bold.ttf"
   }
 }
