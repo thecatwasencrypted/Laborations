@@ -3,7 +3,6 @@
   "name": "Synthetism",
   "previewText": "A set of fonts combined & mixed in my style :^",
   "main": {
-
     "ggsans-Normal": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
     "ggsans-NormalItalic": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/mali_italic.ttf",
     "ggsans-Medium": "https://github.com/Encryptan/Laborations/raw/refs/heads/main/Synthetism/fonts/choco_cooky_regular.ttf",
