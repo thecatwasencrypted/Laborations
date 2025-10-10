@@ -14,11 +14,11 @@
     "ggsans-ExtraBold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/nunito_black.ttf",
     "ggsans-ExtraBoldItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/nunito_black_italic.ttf",
 
-    "ggmono-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_light.ttf",
-    "ggmono-Bold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_bold.ttf",
+    "ggmono-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/cascadia_mono_light.ttf",
+    "ggmono-Bold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/cascadia_mono_bold.ttf",
 
-    "SourceCodePro-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/cascadia_mono_light.ttf",
-    "SourceCodePro-Bold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/cascadia_mono_bold.ttf",
+    "SourceCodePro-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_light.ttf",
+    "SourceCodePro-Bold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_bold.ttf",
 
     "NotoSans-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/choco_cooky.ttf",
     "NotoSans-NormalItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_italic.ttf",
