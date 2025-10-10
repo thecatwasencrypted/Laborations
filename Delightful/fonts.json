@@ -3,9 +3,9 @@
   "name": "Delightful",
   "previewText": "A set of fonts synthesized & mixed in my style ⟨・w・⟩",
   "main": {
-    "ggsans-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/choco_cooky.ttf",
+    "ggsans-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_regular.ttf",
     "ggsans-NormalItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_italic.ttf",
-    "ggsans-Medium": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_regular.ttf",
+    "ggsans-Medium": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/choco_cooky.ttf",
     "ggsans-MediumItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_medium_italic.ttf",
     "ggsans-Semibold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/playpen_sans_semi_bold.ttf",
     "ggsans-SemiboldItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_semi_bold_italic.ttf",
@@ -17,9 +17,9 @@
     "ggmono-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/cascadia_mono_light.ttf",
     "ggmono-Bold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/cascadia_mono_bold.ttf",
 
-    "NotoSans-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/choco_cooky.ttf",
+    "NotoSans-Normal": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_regular.ttf",
     "NotoSans-NormalItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_italic.ttf",
-    "NotoSans-Medium": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/lxgw_wenkai_tc_regular.ttf",
+    "NotoSans-Medium": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/choco_cooky.ttf",
     "NotoSans-MediumItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_medium_italic.ttf",
     "NotoSans-Semibold": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/playpen_sans_semi_bold.ttf",
     "NotoSans-SemiboldItalic": "https://github.com/thecatwasencrypted/Laborations/raw/refs/heads/main/Delightful/fonts/mali_semi_bold_italic.ttf",
