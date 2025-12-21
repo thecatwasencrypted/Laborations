@@ -130,9 +130,13 @@
     "INTERACTIVE_ICON_DEFAULT": [ "#b5bac1", "#4e5058" ],
     "INTERACTIVE_ICON_HOVER": [ "#dbdee1", "#313338" ]
   },
+  "plus": {
+    "version": 0
+},
   "rawColors": {
     "RED_400": "#7dafff",
     "YELLOW_300": "#7dafff",
+    "PRIMARY_700": "#000000",
     "GREEN_360": "#70ffa0",
     "GREEN_600": "#70f0a0",
     "BRAND_100": "#f8faff",
@@ -168,3 +172,4 @@
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#7dafff"
   }
 }
+
