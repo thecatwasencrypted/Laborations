@@ -95,8 +95,8 @@
     "INPUT_FOCUSED_BORDER": [ "#20222628" ],
     "HOME_CARD_RESTING_BORDER": [ "#0a0d122d" ],
 
+    "TEXT_DEFAULT": [ "#f7faff" ],
 
-    "TEXT_DEFAULT": [ "#f7faff", "#313338" ],
     "TEXT_STRONG": [ "#dbdee1", "#313338" ],
     "TEXT_SUBTLE": [ "#b5bac1", "#4e5058" ],
     "TEXT_OVERLAY_DARK": [ "#2f3035", "#2f3035" ],
@@ -172,6 +172,7 @@
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#7dafff"
   }
 }
+
 
 
 
