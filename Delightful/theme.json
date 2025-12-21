@@ -31,6 +31,7 @@
     "BG_BACKDROP": [ "#000000a0" ],
     "BG_BACKDROP_NO_OPACITY": [ "#000000" ],
 
+    "PANEL_BG": [ "#000022" ],
     "CHAT_BANNER_BG": [ "#0a0c10" ],
     "TYPING_INDICATOR_BG": [ "#03050aa0" ],
     "ACTION_SHEET_GRADIENT_BG": [ "#000102" ],
@@ -136,7 +137,6 @@
   "rawColors": {
     "RED_400": "#7dafff",
     "YELLOW_300": "#7dafff",
-    "PLUM_20": "#111111",
     "GREEN_360": "#70ffa0",
     "GREEN_600": "#70f0a0",
     "BRAND_100": "#f8faff",
@@ -172,5 +172,6 @@
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#7dafff"
   }
 }
+
 
 
