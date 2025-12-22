@@ -7,6 +7,21 @@
     "url": "https://raw.githubusercontent.com/thecatwasencrypted/Laborations/refs/heads/main/Delightful/theme/background_chat.png"
   },
   "semanticColors": {
+    
+  "TEXT_DEFAULT": {
+    "source": {
+      "darker": "PLUM_18",
+      "midnight": "PLUM_18",
+      "light": "PRIMARY_100",
+      "dark": "PRIMARY_645"
+    },
+    "colors": {
+      "darker": "#ffffff",
+      "midnight": "#ffffff",
+      "light": "#ffffff",
+      "dark": "#ffffff"
+    }
+  },
     "TEXT_NORMAL": [ "#f7faff" ],
     "TEXT_PRIMARY": [ "#f3f7ff" ],
     "TEXT_SECONDARY": [ "#a3a7af" ],
@@ -172,6 +187,7 @@
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#7dafff"
   }
 }
+
 
 
 
