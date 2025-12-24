@@ -8,7 +8,7 @@
   },
   "plus": { "version": 0 },
   "semanticColors": {
-    "TEXT_NORMAL": [ "#fcfdff" ],
+    "TEXT_NORMAL": [ "#ffffff" ],
     "TEXT_PRIMARY": [ "#e2e3e6" ],
     "TEXT_SECONDARY": [ "#abadb7" ],
     "TEXT_LINK": [ "#4488ff" ],
@@ -99,7 +99,7 @@
     "PLUM_6": "#a1a2a6",
     "PLUM_7": "#84868b",
     "PLUM_8": "#787980",
-    "PLUM_9": "#60626a",
+    "PLUM_9": "#ffffff",
     "PLUM_10": "#4c4d55",
     "PLUM_11": "#3f4148",
     "PLUM_12": "#35373e",
@@ -202,4 +202,5 @@
     "CHAT_MENTIONS_FOREGROUND_DARK": "#7dafff",
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#7dafff"
   }
+
 }
