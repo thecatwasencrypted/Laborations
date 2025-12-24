@@ -8,7 +8,7 @@
   },
   "plus": { "version": 0 },
   "semanticColors": {
-    "TEXT_NORMAL": [ "#ffffff" ],
+    "TEXT_NORMAL": [ "#fcfdff" ],
     "TEXT_PRIMARY": [ "#e2e3e6" ],
     "TEXT_SECONDARY": [ "#abadb7" ],
     "TEXT_LINK": [ "#4488ff" ],
@@ -204,5 +204,6 @@
   }
 
 }
+
 
 
