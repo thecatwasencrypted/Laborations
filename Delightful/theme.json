@@ -99,7 +99,7 @@
     "PLUM_6": "#a1a2a6",
     "PLUM_7": "#84868b",
     "PLUM_8": "#ff0000",
-    "PLUM_9": "#ffffff",
+    "PLUM_9": "#ff00ff",
     "PLUM_10": "#0000ff",
     "PLUM_11": "#3f4148",
     "PLUM_12": "#35373e",
@@ -153,7 +153,7 @@
     "GREEN_300": "#68ff83",
     "GREEN_330": "#64ff80",
     "GREEN_345": "#62ff7f",
-    "GREEN_360": "#ffffff",
+    "GREEN_360": "#00ffff",
     "GREEN_400": "#5fff7c",
     "GREEN_430": "#5dff7a",
     "GREEN_460": "#52ff71",
@@ -204,4 +204,5 @@
   }
 
 }
+
 
