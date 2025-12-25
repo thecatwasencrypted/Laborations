@@ -24,8 +24,6 @@
 
     "MENTION_FOREGROUND": [ "#7dafff" ],
 
-    "BG_BASE_PRIMARY": [ "#020202" ],
-    "BG_BASE_SECONDARY": [ "#010101" ],
     "BG_BASE_TERTIARY": [ "#000000" ],
 
     "ALERT_BG": [ "#070303" ],    
@@ -131,33 +129,6 @@
     "GREEN_830": "#0b2410",
     "GREEN_860": "#07180a",
     "GREEN_900": "#051007",
-    "PRIMARY_100": "#f6f6f6",
-    "PRIMARY_130": "#eceef0",
-    "PRIMARY_160": "#e4e6e8",
-    "PRIMARY_200": "#d0d2d5",
-    "PRIMARY_230": "#c6c8cb",
-    "PRIMARY_260": "#b4b7ba",
-    "PRIMARY_300": "#acb0b5",
-    "PRIMARY_330": "#9ea3a9",
-    "PRIMARY_345": "#8a9096",
-    "PRIMARY_360": "#7b8189",
-    "PRIMARY_400": "#696c74",
-    "PRIMARY_430": "#5e6067",
-    "PRIMARY_460": "#505259",
-    "PRIMARY_500": "#4a4c54",
-    "PRIMARY_530": "#404249",
-    "PRIMARY_560": "#3a3c43",
-    "PRIMARY_600": "#303237",
-    "PRIMARY_630": "#2a2c30",
-    "PRIMARY_645": "#25272a",
-    "PRIMARY_660": "#202125",
-    "PRIMARY_700": "#1c1d20",
-    "PRIMARY_730": "#18191c",
-    "PRIMARY_760": "#151618",
-    "PRIMARY_800": "#101113",
-    "PRIMARY_830": "#0a0a0b",
-    "PRIMARY_860": "#050506",
-    "PRIMARY_900": "#010102",
     "CHAT_MENTIONS_BACKGROUND_DARK": "#9cc4ff5f",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#9cc4ff5f",
     "CHAT_MENTIONS_FOREGROUND_DARK": "#7dafff",
@@ -165,6 +136,7 @@
   }
 
 }
+
 
 
 
